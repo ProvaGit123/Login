@@ -17,4 +17,8 @@ public class Model {
 		return dao.getUtenteByUser(user);
 	}
 	
+	public Utente scacciaUtente() {
+		
+	}
+	
 }
